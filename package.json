@@ -1,0 +1,38 @@
+{
+  "name": "react-code-copy-block",
+  "version": "1.0.1",
+  "description": "A React Component in which code can be copied in just one click from a nicely colored code block",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.6.1",
+    "react-inlinesvg": "^0.8.2",
+    "react-syntax-highlighter": "^10.0.0",
+    "react-toastify": "^4.4.1",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Chris Frewin",
+    "email": "frewin.christopher@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.1",
+    "svg-inline-loader": "^0.8.0"
+  }
+}
