@@ -1,6 +1,6 @@
 {
   "name": "react-code-copy-block",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React Component in which code can be copied in just one click from a nicely colored code block",
   "main": "build/index.js",
   "peerDependencies": {

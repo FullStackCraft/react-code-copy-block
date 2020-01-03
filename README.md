@@ -9,7 +9,7 @@ Install with:
 ## Usage
 
 ```javascript
-import ReactCodeCopyBlock from 'rect-code-copy-block';
+import ReactCodeCopyBlock from 'react-code-copy-block';
 
 ...
 
